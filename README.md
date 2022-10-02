@@ -8,8 +8,7 @@
 [real-service-providers](https://github.com/ilyub/real-service-providers) |
 [type-essentials](https://github.com/ilyub/type-essentials)
 
-### Docs
-
+Docs:\
 [eslint-plugin-misc](https://ilyub.github.io/eslint-plugin-misc/) |
 [quasar-extension](https://ilyub.github.io/quasar-extension/) |
 [real-classes](https://ilyub.github.io/real-classes/) |
@@ -17,6 +16,9 @@
 [real-fns](https://ilyub.github.io/real-fns/) |
 [real-service-providers](https://ilyub.github.io/real-service-providers/) |
 [type-essentials](https://ilyub.github.io/type-essentials/)
+
+Demos:\
+[quasar-extension](http://quasar-extension-demo.ilyub.pro/)
 
 ### Extensions
 
