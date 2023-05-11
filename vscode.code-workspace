@@ -14,6 +14,12 @@
     "[php]": {
       "editor.defaultFormatter": "junstyle.php-cs-fixer"
     },
+    "[scss]": {
+      "editor.formatOnSave": false
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
     "debug.javascript.codelens.npmScripts": "never",
     "editor.codeActionsOnSave": {
       "source.fixAll": true,
@@ -23,6 +29,9 @@
     "editor.foldingStrategy": "indentation",
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
+    "editor.unicodeHighlight.allowedLocales": {
+      "ru": true
+    },
     "editor.unicodeHighlight.ambiguousCharacters": true,
     "eslint.codeActionsOnSave.rules": [
       "*"
@@ -61,30 +70,69 @@
       "package-lock.json": true
     },
     "sort-json.settings.contextMenu": {
-      "setSortType": false,
-      "sortJSON": false,
-      "sortJSONDeepReverse": false,
-      "sortJSONReverse": false,
-      "toggleSortCaseSensitive": false
+      "ascendingSort": true,
+      "sortJsonSubMenu": false
     },
-    "sort-json.settings.ignoreArraysOnDeepSort": true,
     "sort-json.settings.isCaseSensitive": true,
-    "sort-json.settings.orderOverride": [
-      "name",
-      "description",
-      "keywords",
-      "type",
-      "minimum-stability",
-      "prefer-stable",
-      "version",
-      "license",
-      "homepage",
-      "extends"
+    "sort-json.settings.orderOverrideKeys": {
+      "": [
+        "$schema",
+        "$id",
+        "type"
+      ],
+      "composer.json": [
+        "name",
+        "description",
+        "keywords",
+        "type",
+        "minimum-stability",
+        "prefer-stable",
+        "private",
+        "license",
+        "homepage",
+        "archive",
+        "authors",
+        "require-dev"
+      ],
+      "manifest.json": [
+        "name",
+        "short_name",
+        "start_url",
+        "display",
+        "background_color",
+        "theme_color",
+        "icons"
+      ],
+      "tsconfig-build-es.json": [
+        "extends"
+      ],
+      "tsconfig-build.json": [
+        "extends"
+      ],
+      "tsconfig-min.json": [
+        "extends"
+      ],
+      "tsconfig-prepublish.json": [
+        "extends"
+      ],
+      "tsconfig-typedoc.json": [
+        "extends"
+      ],
+      "tsconfig.json": [
+        "extends"
+      ]
+    },
+    "sort-json.settings.sortMode": "Objects Only",
+    "stylelint.validate": [
+      "css",
+      "less",
+      "postcss",
+      "scss"
     ],
     "typescript.suggestionActions.enabled": false,
     "typescript.tsdk": "node_modules\\typescript\\lib",
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "volar.codeLens.references": false,
+    "vue.codeActions.savingTimeLimit": 30000,
     "workbench.colorCustomizations": {
       "editor.foldBackground": "#0000"
     },
