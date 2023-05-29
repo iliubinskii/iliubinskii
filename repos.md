@@ -18,20 +18,6 @@
 [![Dependencies](https://img.shields.io/librariesio/release/npm/lodash-commonjs-es)](https://libraries.io/npm/lodash-commonjs-es)
 [![Stars](https://img.shields.io/github/stars/ilyub/lodash-commonjs-es)](https://github.com/ilyub/lodash-commonjs-es)
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=quasar-extension&up_color=blue&up_message=quasar-extension&url=https%3A%2F%2Filyub.github.io%2Fquasar-extension%2F)](https://ilyub.github.io/quasar-extension/)
-[![Downloads](https://img.shields.io/npm/dm/quasar-extension)](https://www.npmjs.com/package/quasar-extension)
-[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/quasar-extension)](https://snyk.io/advisor/npm-package/quasar-extension)
-[![Dependencies](https://img.shields.io/librariesio/release/npm/quasar-extension)](https://libraries.io/npm/quasar-extension)
-[![Coverage](https://img.shields.io/sonar/coverage/ilyub_quasar-extension/master.svg?server=https%3A%2F%2Fsonarcloud.io)](https://sonarcloud.io/component_measures?id=ilyub_quasar-extension&metric=coverage)
-[![Stars](https://img.shields.io/github/stars/ilyub/quasar-extension)](https://github.com/ilyub/quasar-extension)
-
-[![Website](https://img.shields.io/website?down_color=red&down_message=react-next-tick&up_color=blue&up_message=react-next-tick&url=https%3A%2F%2Filyub.github.io%2Freact-next-tick%2F)](https://ilyub.github.io/react-next-tick/)
-[![Downloads](https://img.shields.io/npm/dm/react-next-tick)](https://www.npmjs.com/package/react-next-tick)
-[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/react-next-tick)](https://snyk.io/advisor/npm-package/react-next-tick)
-[![Dependencies](https://img.shields.io/librariesio/release/npm/react-next-tick)](https://libraries.io/npm/react-next-tick)
-[![Coverage](https://img.shields.io/sonar/coverage/ilyub_react-next-tick/master.svg?server=https%3A%2F%2Fsonarcloud.io)](https://sonarcloud.io/component_measures?id=ilyub_react-next-tick&metric=coverage)
-[![Stars](https://img.shields.io/github/stars/ilyub/react-next-tick)](https://github.com/ilyub/react-next-tick)
-
 [![Website](https://img.shields.io/website?down_color=red&down_message=real-classes&up_color=blue&up_message=real-classes&url=https%3A%2F%2Filyub.github.io%2Freal-classes%2F)](https://ilyub.github.io/real-classes/)
 [![Downloads](https://img.shields.io/npm/dm/real-classes)](https://www.npmjs.com/package/real-classes)
 [![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/real-classes)](https://snyk.io/advisor/npm-package/real-classes)
