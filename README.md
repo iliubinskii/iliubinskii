@@ -1,32 +1,27 @@
 ### Repos
 
-[eslint-plugin-misc](https://github.com/ilyub/eslint-plugin-misc) |
-[quasar-extension](https://github.com/ilyub/quasar-extension) |
-[real-classes](https://github.com/ilyub/real-classes) |
-[real-facades](https://github.com/ilyub/real-facades) |
-[real-fns](https://github.com/ilyub/real-fns) |
-[real-service-providers](https://github.com/ilyub/real-service-providers) |
-[type-essentials](https://github.com/ilyub/type-essentials)
+[eslint-plugin-misc](https://github.com/iliubinskii/eslint-plugin-misc) |
+[real-classes](https://github.com/iliubinskii/real-classes) |
+[real-facades](https://github.com/iliubinskii/real-facades) |
+[real-fns](https://github.com/iliubinskii/real-fns) |
+[real-service-providers](https://github.com/iliubinskii/real-service-providers) |
+[type-essentials](https://github.com/iliubinskii/type-essentials)
 
 Docs:\
-[eslint-plugin-misc](https://ilyub.github.io/eslint-plugin-misc/) |
-[quasar-extension](https://ilyub.github.io/quasar-extension/) |
-[real-classes](https://ilyub.github.io/real-classes/) |
-[real-facades](https://ilyub.github.io/real-facades/) |
-[real-fns](https://ilyub.github.io/real-fns/) |
-[real-service-providers](https://ilyub.github.io/real-service-providers/) |
-[type-essentials](https://ilyub.github.io/type-essentials/)
-
-Demos:\
-[quasar-extension](http://quasar-extension-demo.ilyub.pro/)
+[eslint-plugin-misc](https://iliubinskii.github.io/eslint-plugin-misc/) |
+[real-classes](https://iliubinskii.github.io/real-classes/) |
+[real-facades](https://iliubinskii.github.io/real-facades/) |
+[real-fns](https://iliubinskii.github.io/real-fns/) |
+[real-service-providers](https://iliubinskii.github.io/real-service-providers/) |
+[type-essentials](https://iliubinskii.github.io/type-essentials/)
 
 ### Extensions
 
-[chrome-keep-open](https://github.com/ilyub/chrome-keep-open) |
-[vscode-autofold-comments](https://github.com/ilyub/vscode-autofold-comments)
+[chrome-keep-open](https://github.com/iliubinskii/chrome-keep-open) |
+[vscode-autofold-comments](https://github.com/iliubinskii/vscode-autofold-comments)
 
 ### Other repos
 
-[lodash-commonjs-es](https://github.com/ilyub/lodash-commonjs-es) |
-[real-config](https://github.com/ilyub/real-config) |
-[types-fix](https://github.com/ilyub/types-fix)
+[lodash-commonjs-es](https://github.com/iliubinskii/lodash-commonjs-es) |
+[real-config](https://github.com/iliubinskii/real-config) |
+[types-fix](https://github.com/iliubinskii/types-fix)
