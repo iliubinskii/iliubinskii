@@ -17,8 +17,7 @@ Docs:\
 
 ### Extensions
 
-[chrome-keep-open](https://github.com/iliubinskii/chrome-keep-open) |
-[vscode-autofold-comments](https://github.com/iliubinskii/vscode-autofold-comments)
+[chrome-keep-open](https://github.com/iliubinskii/chrome-keep-open)
 
 ### Other repos
 

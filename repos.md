@@ -54,9 +54,3 @@
 [![Stars](https://img.shields.io/github/stars/iliubinskii/types-fix)](https://github.com/iliubinskii/types-fix)
 [![Downloads](https://img.shields.io/npm/dm/types-fix)](https://www.npmjs.com/package/types-fix)
 [![Dependencies](https://img.shields.io/librariesio/release/npm/types-fix)](https://libraries.io/npm/types-fix)
-
-[![Website](https://img.shields.io/website?down_color=red&down_message=vscode-autofold-comments&up_color=blue&up_message=vscode-autofold-comments&url=https%3A%2F%2Fgithub.com%2Filiubinskii%2Fvscode-autofold-comments)](https://github.com/iliubinskii/vscode-autofold-comments)
-[![Version](https://img.shields.io/visual-studio-marketplace/v/iliubinskii.autofold-comments)](https://marketplace.visualstudio.com/items?itemName=iliubinskii.autofold-comments)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/iliubinskii.autofold-comments)](https://marketplace.visualstudio.com/items?itemName=iliubinskii.autofold-comments)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/iliubinskii.autofold-comments)](https://marketplace.visualstudio.com/items?itemName=iliubinskii.autofold-comments)
-[![Stars](https://img.shields.io/visual-studio-marketplace/stars/iliubinskii.autofold-comments)](https://marketplace.visualstudio.com/items?itemName=iliubinskii.autofold-comments)
