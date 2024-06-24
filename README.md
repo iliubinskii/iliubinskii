@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to my GitHub profile. Below, I have listed the most valuable of my works based solely on my judgment.
+Welcome to my GitHub profile. Below, I have listed some of my repositories that I value most.
 
 ## Zero Company project
 
