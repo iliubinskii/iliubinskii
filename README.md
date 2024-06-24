@@ -22,6 +22,6 @@ Zero Company is a collaborative project currently supported by four active membe
 
 ## ESLint plugin
 
-I created this plugin to fill the gaps I discovered in other great and popular ESLint plugins.
+The main focus of this plugin is to fill some gaps in popular ESLint plugins I am using in my projects.
 
 - [ESLint plugin repo](https://github.com/iliubinskii/eslint-plugin-misc)
