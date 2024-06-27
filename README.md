@@ -20,6 +20,10 @@ Zero Company is a collaborative project currently supported by four active membe
 - [Swipeable Tab Bar](https://github.com/iliubinskii/react-native-misc/tree/master/src/components/SwipeableTabBar) — An application's bottom tab bar that allows switching between multiple sets of buttons.
 - [Wheel Picker](https://github.com/iliubinskii/react-native-misc/tree/master/src/components/WheelPicker) — A wheel picker component for selecting time units, size units, or other numeric values.
 
+Check the components from this library in an Android app:
+
+- [Y Tasks](https://play.google.com/apps/internaltest/4701242983924474999)
+
 ## ESLint plugin
 
 The main focus of this plugin is to fill some gaps in popular ESLint plugins I am using in my projects.
